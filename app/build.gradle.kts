@@ -50,6 +50,7 @@ android {
 
 
 dependencies {
+    implementation("androidx.test.ext:junit-ktx:1.1.5")
     val composeVersion = "1.4.2"
 
     implementation("androidx.core:core-ktx:1.10.0")
